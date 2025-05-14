@@ -49,4 +49,4 @@ To include pt2matsim in your own maven project, add this snippet to your pom.xml
         </dependency>
     </dependencies>
 
-The master branch contains the snapshot version with the latest changes. Clone the git repository to use it.
+The master branch contains the snapshot version with the latest changes. Clone the git repository to use it. This repository has been cloned to Faza F Bastarianto local machine.
